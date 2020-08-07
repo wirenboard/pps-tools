@@ -1,4 +1,4 @@
-TARGETS = ppstest ppsctl ppswatch ppsldisc
+TARGETS = ppstest ppsctl ppswatch ppsldisc ppsstat
 
 CFLAGS += -Wall -O2 -D_GNU_SOURCE
 CFLAGS += -ggdb
